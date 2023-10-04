@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Onlinetally/static/css/main.1ddd0b49.css",
+    "main.js": "/Onlinetally/static/js/main.82d63fcf.js",
+    "index.html": "/Onlinetally/index.html",
+    "main.1ddd0b49.css.map": "/Onlinetally/static/css/main.1ddd0b49.css.map",
+    "main.82d63fcf.js.map": "/Onlinetally/static/js/main.82d63fcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ddd0b49.css",
+    "static/js/main.82d63fcf.js"
+  ]
+}
