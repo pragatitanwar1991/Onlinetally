@@ -1,14 +1,4 @@
-Steps to run
-<div>
-  <ul>
-    <li>
-      run npm install in root folder
-    </li>
-    <li>
-      run npm start, and application will run on localhost:3000
-    </li>
-  </ul>
-</div>
+
 
 Screenshot of App
 ![Screenshot 2023-10-04 at 3 20 58 PM](https://github.com/pragatitanwar1991/Onlinetally/assets/143954738/d60f5c16-18f5-4914-96f8-8d7b715fb384)
