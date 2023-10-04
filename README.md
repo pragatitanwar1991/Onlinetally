@@ -1,8 +1,4 @@
 
-
-## Screenshot
-![Screenshot 2023-10-04 at 3 20 58 PM](https://github.com/pragatitanwar1991/Onlinetally/assets/143954738/d60f5c16-18f5-4914-96f8-8d7b715fb384)
-
 ## Steps to run
 <div>
   <ul>
@@ -14,6 +10,11 @@
     </li>
   </ul>
 </div>
+
+## Screenshot
+![Screenshot 2023-10-04 at 3 20 58 PM](https://github.com/pragatitanwar1991/Onlinetally/assets/143954738/d60f5c16-18f5-4914-96f8-8d7b715fb384)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
